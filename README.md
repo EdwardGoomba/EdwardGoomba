@@ -1,6 +1,7 @@
 ### Hi, I'm Edward ☕
 
-I am a senior frontennd engineer <a href='https://6river.com/'>@ 6River</a>.
+I am a senior frontend engineer <a href='https://6river.com/'>@ 6River</a>.
+
 I also run a startup studio <a href='https://www.dock90.io'>@ dock90</a>.
 
 - 🔭 I’m currently working on validating: Citizen Request, Toulous, and Atomry.
