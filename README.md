@@ -1,6 +1,6 @@
 ### Hi, I'm Edward ☕
 
-I am a senior frontend engineer @ <a href='https://6river.com/'>6River</a>.
+I am currently an engineer @ <a href='https://6river.com/'>6River</a>.
 
 I also run a startup studio @ <a href='https://www.dock90.io'>dock90</a>.
 
