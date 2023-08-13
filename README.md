@@ -1,6 +1,6 @@
 ### Hi, I'm Edward ☕
 
-I am a senior software engineer @ <a href='https://6river.com/'>6River</a>.
+Im currently full time travelling the world with my wife and our four little buddies.
 
 I also run a product studio @ <a href='https://www.dock90.io'>dock90</a>.
 
